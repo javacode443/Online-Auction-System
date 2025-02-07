@@ -2,6 +2,8 @@
 
 基于JAVA+Vue.js+Spring Boot+MySQL开发，2024年度高分JAVA成品毕业设计，附带往届论文、启动教程、讲解视频、二次开发教程和配套安装包文件，论文中有项目截图，提供答疑。
 
+### 项目录屏：https://www.bilibili.com/video/BV1ru4y1J7vd
+
 ### 启动教程：https://www.bilibili.com/video/BV11ktveuE2d
 
 ### 讲解视频：https://www.bilibili.com/video/BV1Tb421n72S
